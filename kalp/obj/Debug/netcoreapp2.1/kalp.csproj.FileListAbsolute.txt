@@ -1,0 +1,11 @@
+C:\Users\Cspr\source\repos\kalp\kalp\bin\Debug\netcoreapp2.1\kalp.deps.json
+C:\Users\Cspr\source\repos\kalp\kalp\bin\Debug\netcoreapp2.1\kalp.runtimeconfig.json
+C:\Users\Cspr\source\repos\kalp\kalp\bin\Debug\netcoreapp2.1\kalp.runtimeconfig.dev.json
+C:\Users\Cspr\source\repos\kalp\kalp\bin\Debug\netcoreapp2.1\kalp.dll
+C:\Users\Cspr\source\repos\kalp\kalp\bin\Debug\netcoreapp2.1\kalp.pdb
+C:\Users\Cspr\source\repos\kalp\kalp\obj\Debug\netcoreapp2.1\kalp.csprojAssemblyReference.cache
+C:\Users\Cspr\source\repos\kalp\kalp\obj\Debug\netcoreapp2.1\kalp.csproj.CoreCompileInputs.cache
+C:\Users\Cspr\source\repos\kalp\kalp\obj\Debug\netcoreapp2.1\kalp.AssemblyInfoInputs.cache
+C:\Users\Cspr\source\repos\kalp\kalp\obj\Debug\netcoreapp2.1\kalp.AssemblyInfo.cs
+C:\Users\Cspr\source\repos\kalp\kalp\obj\Debug\netcoreapp2.1\kalp.dll
+C:\Users\Cspr\source\repos\kalp\kalp\obj\Debug\netcoreapp2.1\kalp.pdb
